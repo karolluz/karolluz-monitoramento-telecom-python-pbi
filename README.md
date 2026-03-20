@@ -1,14 +1,19 @@
-# 📡 Monitoramento de Transações Telecom (Automação End-to-End)
+# 📡 Estudo de Caso: Inteligência de Dados em Telecom
 
-### 🚀 Sobre o Projeto
-Este projeto foi desenvolvido para substituir processos manuais de conciliação de vendas em uma operação de Telecomunicações. Saímos do modelo baseado em planilhas e PROCVs manuais para uma arquitetura moderna e escalável.
+### 🚀 Sobre este Projeto
+Este repositório reúne um estudo de caso desenvolvido por mim para aplicar ferramentas de tecnologia no setor de Telecomunicações — uma área que já domino e pela qual tenho grande interesse. O foco aqui foi exercitar o uso de lógica de programação e banco de dados para criar camadas de visualização sobre fluxos de informações.
 
-### 🛠️ O que eu utilizei:
-* **Docker & PostgreSQL**: Criação e gestão do banco de dados relacional.
-* **Python (Pandas & SQLAlchemy)**: Automação do ETL (Extração, Transformação e Carga), corrigindo falhas de sistema automaticamente.
-* **Power BI**: Dashboard estratégico com visual Dark e foco em indicadores financeiros (R$).
+### 🛠️ Tecnologias em Estudo
+Como parte do meu aprimoramento contínuo, utilizei este projeto para praticar:
+* **Python (Pandas & SQLAlchemy)**: Prática de lógica para organização e estruturação de bases.
+* **PostgreSQL & Docker**: Estudo de infraestrutura de dados e bancos relacionais.
+* **Power BI**: Desenvolvimento de painéis para transformar dados técnicos em indicadores visuais.
 
-### 💡 Impacto Gerado
-A solução permite identificar prejuízos em tempo real, monitorar a saúde de cada terminal e garantir a integridade dos dados de faturamento sem intervenção humana constante.
+### 💡 Minha Visão
+O objetivo deste trabalho é de portfólio pessoal e prática acadêmica. Ele reflete minha dedicação em aprender novas ferramentas que complementem minha experiência operacional, traduzindo o conhecimento que já possuo no setor em uma perspectiva técnica e visual.
 
-**Desenvolvido por:** Karoline Rodrigues da Luz
+### 📊 Painel de Visualização (BI)
+![Dashboard](dashboard_monitoramento_telecom.PNG)
+
+---
+**Desenvolvido por:** [Karoline Rodrigues da Luz](https://www.linkedin.com/in/karoline-rodrigues-da-luz-80b15b221)
